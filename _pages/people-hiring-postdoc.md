@@ -1,1 +1,3 @@
-**Recruiting a postdoc** — the lab at Loyola University Chicago is looking for candidates with experience in and/or a desire to pursue virus-host interactions, post-translational modifications, and RNA splicing. Well qualified individuals will also demonstrate excellence in oral and written communication, lab and project management, and an ability to supervise and mentor trainees. Get in touch with Steve to chat more.
+### Recruiting a *postdoc*
+
+The lab at Loyola University Chicago is looking for candidates with experience in and/or a desire to pursue virus-host interactions, post-translational modifications, and RNA splicing. Well qualified individuals will also demonstrate excellence in oral and written communication, lab and project management, and an ability to supervise and mentor trainees. Get in touch with Steve to chat more.

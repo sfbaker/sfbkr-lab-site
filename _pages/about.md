@@ -12,7 +12,6 @@ profile:
     <p>Loyola University Chicago</p>
     <p>Stritch School of Medicine</p>
     <p>Department of Microbiology and Immunology</p>
-    <p>Maywood, IL</p>
 
 selected_papers: false # we're citing papers inline on the Research page instead of a separate list — flip to true later if you want an auto-generated list here too
 social: true

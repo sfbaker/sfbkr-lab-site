@@ -18,6 +18,7 @@ profiles:
     content: people-hiring-postdoc.md
     image_circular: false
     more_info: >
+      <p>Postdoc TBD</p>
   - align: right
     content: people-alumni.md
 ---
