@@ -7,21 +7,26 @@ nav: true
 nav_order: 2
 ---
 
-Nearly all human genes are alternatively spliced — we think that's not incidental. Influenza virus is our model system for asking how infection reshapes splicing, and how the host pro- and antiviral factors produced are transcriptionally regulated and function.
+Nearly all human genes are alternatively spliced. In the battle of pathogen and host, splicing adds a transient toggle to modify transcript levels or the surface, lifetime, or localization of a protein. Influenza virus is our model system for asking how infection reshapes splicing, and how the host pro- and antiviral factors produced are transcriptionally regulated and function.
+
+## How does the novel ISG15 splice isoform function?
+
+Through long-read RNA-seq we identified an interferon-responsive ISG15 alternative transcript isoform producing an N-terminally truncated protein. ISG15 is widely studied in antiviral immunity, but this new variant functions independently of previously defined ISG15 roles. 
+Preprint → [A novel ISG15 transcript restricts influenza A virus infection, *bioRxiv*](https://www.biorxiv.org/content/10.64898/2026.01.15.699784v1)
 
 ## Can hosts hide antiviral function within essential genes?
 
 Viruses commonly exploit essential genes for pro-viral activities. We found that the metabolic enzyme MECR contains an alternatively spliced isoform that liberates it from the mitochondria to target the flu polymerase directly. It's a hint that hosts may safeguard antiviral proteins by embedding them within genes a virus can't afford to disrupt.
 Publication → [Alternative splicing reveals a cryptic antiviral protein embedded in a metabolic enzyme, *PLOS Biol.*](https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3001934)
 
-## Why does ANP32A from birds stimulate flu polymerase, but the human version doesn't?
+## How do ANP32 proteins contribute to viral polymerase function?
 
-ANP32A is a critical host determinant: the avian version stimulates avian-adapted influenza polymerase, but human ANP32A does not. We're working out how ANP32A functions mechanistically, and whether certain bird species may "pre-adapt" circulating avian influenza viruses before they ever reach a human host.
+ANP32A is a critical host determinant: the avian version stimulates avian-adapted influenza polymerase, but human ANP32A does not. We found that splicing augments ANP32A stimulatory capacity, suggesting certain bird species may "pre-adapt" circulating avian influenza viruses before they ever reach a human host.
 Publication → [Natural ANP32A splice variants differentially stimulate the flu polymerase, *Cell Rep.*](https://doi.org/10.1016/j.celrep.2018.08.012) · [ANP32B, or not to be, that is the question, *eLife Insight*](https://elifesciences.org/articles/48084)
 
-## Why don't influenza A and B viruses reassort?
+## What differentiates promiscuity of influenza A and B viruses?
 
-Reassortment — swapping whole genome segments between co-infecting viruses — is a major driver of influenza diversity. Influenza A and B viruses (FLUAV and FLUBV) both infect and cause disease in humans, but they don't reassort with each other. We found that incompatible viral packaging signals are what keeps the two species apart. Publication → [Packaging Signals Impede Influenza A and B Virus Reassortment, *J. Virol.*](https://doi.org/10.1128/JVI.01440-14)
+Reassortment, or swapping whole genome segments between co-infecting viruses, is a major driver of influenza virus diversity. Influenza A and B viruses both infect and cause disease in humans, but they don't reassort with each other. There are many more influenza A virus species and rampant intratypic reassortment, perhaps contributing to the vast host range of influenza A, but not influenza B viruses. Publication → [Packaging Signals Impede Influenza A and B Virus Reassortment, *J. Virol.*](https://doi.org/10.1128/JVI.01440-14)
 
 ## Building better tools to watch it all happen
 
