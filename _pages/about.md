@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Molecular virology · influenza · host alternative splicing
+subtitle: molecular virology · influenza · alternative RNA splicing
 
 profile:
   align: right
   image: prof_pic.jpg # TODO: replace with a real photo — see README-BAKER-LAB.md
   image_circular: false
   more_info: >
-    <p>Lovelace Biomedical Research Institute</p>
-    <p>2425 Ridgecrest Dr SE, Rm 118</p>
-    <p>Albuquerque, NM 87108</p>
-    <p><em>Moving to Loyola University Chicago, Stritch School of Medicine — details coming soon</em></p>
+    <p>Loyola University Chicago</p>
+    <p>Stritch School of Medicine</p>
+    <p>Department of Microbiology and Immunology</p>
+    <p>Maywood, IL</p>
 
 selected_papers: false # we're citing papers inline on the Research page instead of a separate list — flip to true later if you want an auto-generated list here too
 social: true

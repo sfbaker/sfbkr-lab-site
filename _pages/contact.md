@@ -7,14 +7,14 @@ nav: true
 nav_order: 4
 ---
 
-**Not actively recruiting right now** — the lab is in the middle of a move to Loyola University Chicago, Stritch School of Medicine. But always happy to chat if you're interested in host-virus biology, alternative splicing, or influenza. Reach out by email and we'll go from there.
+**Recruiting a postdoc** — the lab at Loyola University Chicago is looking for candidates with experience in and/or a desire to pursue virus-host interactions, post-translational modifications, and RNA splicing. Well qualified individuals will also demonstrate excellence in oral and written communication, lab and project management, and an ability to supervise and mentor trainees. Get in touch with Steve to chat more.
 
-**Email:** [sbaker@lovelacebiomedical.org](mailto:sbaker@lovelacebiomedical.org) <!-- TODO: update once you have a Loyola email -->
+**Email:** [sbaker13@luc.edu](mailto:sbaker13@luc.edu) 
 
 **Current address:**
-Lovelace Biomedical Research Institute
-2425 Ridgecrest Dr SE, Rm 118
-Albuquerque, NM 87108
-(505) 348-9558
+Center For Translational Research and Education
+Department of Microbiology & Immunology
+Stritch School of Medicine
+Loyola University Chicago
+Maywood, IL 
 
-<!-- TODO: swap in Loyola/Stritch address once you're settled -->
