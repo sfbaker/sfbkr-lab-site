@@ -2,7 +2,7 @@
 layout: page
 permalink: /news/
 title: news
-description: "*history of lab updates*"
+description: "<em>history of lab updates</em>"
 nav: false
 ---
 

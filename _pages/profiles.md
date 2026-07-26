@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: "*current lab members, and where our alumni have gone*"
+description: "<em>current lab members, and where our alumni have gone</em>"
 nav: true
 nav_order: 3
 

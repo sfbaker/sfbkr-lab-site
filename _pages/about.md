@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "*molecular virology · influenza · alternative RNA splicing*"
+subtitle: "<em>molecular virology · influenza · alternative RNA splicing</em>"
 
 profile:
   align: right

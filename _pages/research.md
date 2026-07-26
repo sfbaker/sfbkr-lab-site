@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: "*what we're trying to figure out*"
+description: "<em>what we're trying to figure out</em>"
 nav: true
 nav_order: 2
 ---

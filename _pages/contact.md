@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: contact
-description: "*reach out*"
+description: "<em>reach out</em>"
 nav: true
 nav_order: 4
 ---
