@@ -12,9 +12,9 @@ nav_order: 4
 **Email:** [sbaker13@luc.edu](mailto:sbaker13@luc.edu) 
 
 **Current address:**
-Center For Translational Research and Education
-Department of Microbiology & Immunology
-Stritch School of Medicine
-Loyola University Chicago
+Center For Translational Research and Education<br>
+Department of Microbiology & Immunology<br>
+Stritch School of Medicine<br>
+Loyola University Chicago<br>
 Maywood, IL 
 
