@@ -1,0 +1,43 @@
+---
+layout: page
+---
+<div class="post">
+  <article>
+    {% if page.profiles %}
+      {% for profile in page.profiles %}
+        <hr>
+        {% comment %}
+          CHANGED: only render the floating image/more_info div when there's
+          actually an image or more_info to show. Previously this div always
+          rendered (even empty), which reserved float space and caused entries
+          with neither field to wrap awkwardly instead of spanning full width.
+        {% endcomment %}
+        {% if profile.image or profile.more_info %}
+          <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+            {% if profile.image %}
+              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+              {% if profile.image_circular %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+              {% else %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% endif %}
+              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+            {% endif %}
+            {% if profile.more_info %}
+              <div class="more-info">{{ profile.more_info }}</div>
+            {% endif %}
+          </div>
+        {% endif %}
+        <div class="clearfix">
+          {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>
