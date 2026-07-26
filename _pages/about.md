@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: molecular virology · influenza · alternative RNA splicing
+subtitle: *molecular virology · influenza · alternative RNA splicing*
 
 profile:
   align: right
