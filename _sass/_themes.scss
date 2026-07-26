@@ -1,0 +1,16 @@
+// Local override of theme accent colors — al_folio_core provides the defaults,
+// this file overrides just the accent (theme/hover) color for each mode.
+// Everything else (backgrounds, body text, footer, etc.) intentionally left
+// as the gem's defaults — only the accent color changes here.
+
+:root {
+  --global-theme-color: #5a0722; // Loyola University Chicago official maroon
+  --global-hover-color: #5a0722;
+  --global-hover-text-color: #ffffff;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #a8455f; // lightened maroon — keeps contrast readable on dark background
+  --global-hover-color: #a8455f;
+  --global-hover-text-color: #ffffff;
+}
