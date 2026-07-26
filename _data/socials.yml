@@ -5,6 +5,6 @@
 email: sbaker13@luc.edu
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: https://scholar.google.com/citations?hl=en&user=Vgu8muEAAAAJ&view_op=list_works&gmla=AO4B3juo5GhJRDN-b2F_JdGXDXY5jOaFfNUvQpxtLRUngTJCZOrSmyrXTzjSfwaoDw1AfRp1mCA35WdPnfocl4Hn
-bluesky: sfbkr.bsky.social # your existing handle — keeping this consistent everywhere helps disambiguate you in search
+bluesky_id: sfbkr.bsky.social # your existing handle — keeping this consistent everywhere helps disambiguate you in search
 github: https://github.com/sfbaker
 orcid: https://orcid.org/0000-0001-8379-283X
