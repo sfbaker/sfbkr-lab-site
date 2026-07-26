@@ -6,7 +6,7 @@ subtitle: molecular virology · influenza · alternative RNA splicing
 
 profile:
   align: right
-  image: prof_pic.jpg # TODO: replace with a real photo — see README-BAKER-LAB.md
+  image: ctre.jpg
   image_circular: false
   more_info: >
     <p>Loyola University Chicago</p>
