@@ -2,9 +2,9 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: /assets/pdf/example_pdf.pdf # uncomment and add a CV once you have one to link
-email: sbaker@lovelacebiomedical.org # UPDATE to your Loyola email once you have one
+email: sbaker13@luc.edu
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: # TODO: paste your Google Scholar user ID here (from your profile URL)
+scholar_userid: https://scholar.google.com/citations?hl=en&user=Vgu8muEAAAAJ&view_op=list_works&gmla=AO4B3juo5GhJRDN-b2F_JdGXDXY5jOaFfNUvQpxtLRUngTJCZOrSmyrXTzjSfwaoDw1AfRp1mCA35WdPnfocl4Hn
 bluesky: sfbkr.bsky.social # your existing handle — keeping this consistent everywhere helps disambiguate you in search
-github: # TODO: add your GitHub username if you want a link
-orcid: # TODO: add your ORCID iD (helps with discoverability + is standard for faculty profiles)
+github: https://github.com/sfbaker
+orcid: https://orcid.org/0000-0001-8379-283X
