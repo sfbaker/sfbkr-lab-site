@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: influenza, alternative splicing, ANP32, virus host factors, molecular virology, Loyola Stritch # niche terms that disambiguate from other "Baker Lab"s
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: logo
+icon: logo.png
 
 url: https://www.sfbakerlab.com # UPDATE ME once you've picked & registered your actual new domain
 baseurl: /sfbkr-lab-site # matches repo name — needed until a custom domain is live; blank this out again once it is
