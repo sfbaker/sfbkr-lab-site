@@ -14,7 +14,6 @@ profiles:
     more_info: >
       <p>Principal Investigator</p>
   - align: right
-    image:
     content: people-alumni.md
     image_circular: false
     more_info: >
