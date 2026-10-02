@@ -14,12 +14,6 @@ profiles:
     more_info: >
       <p>Principal Investigator</p>
   - align: right
-    image: darren.jpg
-    content: people-darren.md
-    image_circular: false
-    more_info: >
-      <p>Rotating MS Student</p>
-  - align: right
     image: rosalind.jpg
     content: people-hiring-postdoc.md
     image_circular: false
