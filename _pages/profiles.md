@@ -14,6 +14,12 @@ profiles:
     more_info: >
       <p>Principal Investigator</p>
   - align: right
+    image: mandy.jpg
+    content: people-mandy.md
+    image_circular: false
+    more_info: >
+      <p>Postdoc</p>
+  - align: right
     image: rosalind.jpg
     content: people-hiring-postdoc.md
     image_circular: false

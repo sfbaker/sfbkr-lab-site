@@ -1,6 +1,6 @@
 ### Steven F. Baker
 
-Originally from Rochester, NY. Outside lab, Steve enjoys wrangling three dogs, a cat, and a son with his wife, along with cooking, running, music (RIP former cover band, [Open Places](https://www.instagram.com/openplacesband/)), and exploring Chicago.
+Originally from Rochester, NY. Outside lab, Steve enjoys wrangling three dogs, a cat, and a son with his wife, along with exercise, music (RIP former cover band, [Open Places](https://www.instagram.com/openplacesband/)), exploring Chicago, and having AI guide his journey in fixing up a home.
 
 BS, SUNY Buffalo. PhD, University of Rochester (advisor: [Luis Martínez-Sobrido](https://texasbiomedical.theopenscholar.com/lms-lab/)). Postdoc at UW-Madison (advisor: [Andy Mehle](https://mehlelab.com)). Assistant Professor at Lovelace Biomed prior to moving to Loyola University Chicago in 2026.
 
